@@ -333,9 +333,8 @@
     {
       "id": 56,
       "name": "arroz",
-      "measures": [{ "portion": "1/4", "measure": "taza" }],
-      "category": "cereal"
-    },
+      "measures": [{ "portion": "1/4", "measure": "taza" },{"portion": "50", "measure": "gr" }]
+      "category": "cereal"    },
     {
       "id": 57,
       "name": "avena",
