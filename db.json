@@ -691,6 +691,11 @@
       "name": "zanahoria baby",
       "measures": [{ "portion": "4", "measure": "pza" }],
       "category": "verdura"
+    },{
+      "id": 116,
+      "name": "jamon de pavo",
+      "measures": [{ "portion": "2", "measure": "rebanadas" }],
+      "category": "proteina"
     }
   ]
 }
