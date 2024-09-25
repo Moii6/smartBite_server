@@ -327,7 +327,7 @@
     {
       "id": 55,
       "name": "amaranto tostado",
-      "measures": [{ "portion": "1/4", "measure": "taza" }],
+      "measures": [{ "portion": "1/4", "measure": "taza" },{"portion": "12", "measure": "cdta" },{"portion": "30", "measure": "grs" }],
       "category": "cereal"
     },
     {
