@@ -9,7 +9,7 @@
     {
       "id": 2,
       "name": "Apio",
-      "measures": [{ "portion": "1/2", "measure": "taza" }],
+      "measures": [{ "portion": "1", "measure": "taza" },{ "portion": "120", "measure": "gr" }],
       "category": "verdura"
     },
     {
@@ -419,7 +419,7 @@
     {
       "id": 70,
       "name": "pasta cocida",
-      "measures": [{ "portion": "1/2", "measure": "taza" }],
+      "measures": [{ "portion": "1/2", "measure": "taza" },{ "portion": "60", "measure": "gr" }],
       "category": "cereal"
     },
     {
@@ -696,6 +696,17 @@
       "name": "jamon de pavo",
       "measures": [{ "portion": "2", "measure": "rebanadas" }],
       "category": "proteina"
+    },{
+      "id": 117,
+      "name": "tomates cherry",
+      "measures": [{ "portion": "4", "measure": "pza" }],
+      "category": "proteina"
+    },
+    {
+      "id": 118,
+      "name": "tostadas de arroz",
+      "measures": [{ "portion": "2", "measure": "pza" }],
+      "category": "cereal"
     }
   ],
   "meals": [
